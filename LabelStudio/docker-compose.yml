@@ -1,0 +1,23 @@
+version: "3.9"
+services:
+  label-studio:
+    image: heartexlabs/label-studio:latest
+    ports:
+      - "8877:8080"
+    volumes:
+      - label-studio-data:/label-studio
+    environment:
+      - LABEL_STUDIO_HOST=0.0.0.0
+      - LABEL_STUDIO_PORT=8080
+      - LABEL_STUDIO_USERNAME=admin
+      - LABEL_STUDIO_PASSWORD=admin  
+    restart: always
+    networks:
+      - label-studio-net
+
+volumes:
+  label-studio-data:
+
+networks:
+  label-studio-net:
+    driver: bridge
