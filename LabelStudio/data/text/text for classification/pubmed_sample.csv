@@ -1,26 +1,21 @@
-label,text
-BACKGROUND,Cardiovascular disease is a leading cause of mortality.
-BACKGROUND,Prior studies have shown mixed results on the effectiveness of statins.
-BACKGROUND,Hypertension remains a major risk factor for stroke and MI.
-BACKGROUND,Current guidelines vary in their recommendations.
-BACKGROUND,There is a need for more rigorous trials in diverse populations.
-OBJECTIVE,We aimed to evaluate the effect of a new statin on LDL levels.
-OBJECTIVE,This study investigates the impact of lifestyle intervention.
-OBJECTIVE,Our goal was to assess patient adherence over 6 months.
-OBJECTIVE,To compare outcomes of two different antihypertensive drugs.
-OBJECTIVE,We examine differences in blood pressure control strategies.
-METHOD,We conducted a randomized controlled trial with 300 participants.
-METHOD,Patients were assigned to treatment or placebo groups.
-METHOD,Measurements were taken at baseline and after 12 weeks.
-METHOD,Blinding was maintained for all outcome assessors.
-METHOD,Statistical analysis included t-tests and logistic regression.
-RESULT,LDL levels significantly decreased in the treatment group.
-RESULT,There were no significant side effects observed.
-RESULT,Patients in the intervention arm showed better adherence.
-RESULT,Mean systolic BP reduction was 10 mmHg greater in group A.
-RESULT,No difference was found in hospitalization rates.
-CONCLUSION,The new statin is effective and well-tolerated.
-CONCLUSION,Lifestyle changes improve clinical outcomes.
-CONCLUSION,Our findings support routine monitoring.
-CONCLUSION,Both treatments showed comparable efficacy.
-CONCLUSION,Further studies are needed to confirm these results.
+text
+Пациент жалуется на парестезии в конечностях и нестабильность походки.
+На МРТ головного мозга выявлены очаги демиелинизации в белом веществе.
+Отмечается тремор верхних конечностей при выполнении точных движений.
+В неврологическом статусе - горизонтальный нистагм и снижение ахиллова рефлекса.
+"Проведено исследование вызванных потенциалов, выявлены задержки латентности."
+Диагностирована периферическая невропатия по сенсомоторному типу.
+Назначен курс нейропротекторной терапии с применением витаминов группы B.
+При ЭЭГ зарегистрирована эпилептиформная активность в височных отделах.
+"Пациент перенёс транзиторную ишемическую атаку, госпитализирован в отделение неврологии."
+Планируется проведение люмбальной пункции для исключения нейроинфекции.
+"Зарегистрирована мышечная слабость по проксимальному типу, требуется дифференциальная диагностика с миопатией."
+Проводится курс реабилитации после ишемического инсульта правого полушария.
+На фоне терапии отмечается регресс неврологических симптомов.
+Нейросонография новорождённого выявила расширение боковых желудочков.
+ЭМГ подтвердила наличие признаков хронической нейропатии малоберцового нерва.
+Пациент описывает эпизоды кратковременной потери сознания с последующей амнезией.
+"Выполнена СКТ головного мозга, патологических изменений не выявлено."
+Назначен габапентин для контроля нейропатической боли.
+В анамнезе - черепно-мозговая травма с потерей сознания.
+"Рассматривается диагноз рассеянного склероза, требуется консультация нейроиммунолога."
