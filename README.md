@@ -25,6 +25,9 @@ Comparison_markup_tools/
 │   ├── data/                              # Данные для разметки
 │   └── report/                            # Отчет по работе с CVAT
 │       └── README.md                      # Сложности, шаги, впечатления от использования
+
+├── Deployment/                            # Документация по развертыванию CVAT и Label Studio на Proxmox
+│   ├── Installation_Guide.md              # Основное руководство 
 │
 ├── LabelStudio/                           # Работа с Label Studio
 │   ├── data/                              # Данные для разметки
