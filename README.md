@@ -17,8 +17,10 @@
 ```
 Comparison_markup_tools/
 │
-├── Comparison/                            # Сравнительный анализ инструментов
-│   └── README.md                          # Сравнение Label Studio и CVAT по критериям
+├── Comparison_cvat_labelstudio/           # Сравнительный анализ инструментов
+│   ├── comparison_tables                  # Сравнение Label Studio и CVAT по критериям
+│   ├── README.md   
+|                           
 │
 ├── CVAT/                                  # Работа с CVAT
 │   ├── cvat/                              # Клонированный репозиторий CVAT
@@ -26,7 +28,7 @@ Comparison_markup_tools/
 │   └── report/                            # Отчет по работе с CVAT
 │       └── README.md                      # Сложности, шаги, впечатления от использования
 
-├── Deployment/                            # Документация по развертыванию CVAT и Label Studio на Proxmox
+├── Deployment_cvat_labwlstudio_on_Proxmox/# Документация по развертыванию CVAT и Label Studio на Proxmox
 │   ├── Installation_Guide.md              # Основное руководство 
 │
 ├── LabelStudio/                           # Работа с Label Studio
@@ -36,8 +38,8 @@ Comparison_markup_tools/
 │           └── README.md                  # Комментарии по разметке и инструменту
 │
 ├── Practice report/                       # Отчет по практике
-│   ├── Part 1/                            # Часть 1 — Отчет (формат .doc/.docx)
-│   └── Part 2/                            # Часть 2 — Отчет (формат .doc/.docx)
+│   ├── Report.doc                         # Отчет (формат .doc/.docx)
+│                              
 │
 └── README.md                              # Описание проекта (данный файл)
 ```
